@@ -1,12 +1,24 @@
 {
-	"horoscopes": [{
-		"uid": "1",
-		"date": "2020-04-23",
-		"body1": "This is body 1",
-		"body2": "This is body 2",
-		"body3": "This is body 3",
-		"type": "Daily",
-		"sign": "Leo",
-		"planet": "Mars"
-	}]
+	"horoscopes": [
+		{
+			"uid": "1",
+			"date": "2020-04-23",
+			"body1": "This is body 1",
+			"body2": "This is body 2",
+			"body3": "This is body 3",
+			"type": "Daily",
+			"sign": "Leo",
+			"planet": "Mars"
+		},
+		{
+			"uid": "2",
+			"date": "2020-04-23",
+			"body1": "This is body 1",
+			"body2": "This is body 2",
+			"body3": "This is body 3",
+			"type": "Daily",
+			"sign": "Leo",
+			"planet": "Mars"
+		}
+	]
 }
